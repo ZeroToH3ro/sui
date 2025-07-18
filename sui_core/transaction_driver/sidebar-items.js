@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["RejectReason","SubmitTxResponse","WaitForEffectsResponse"],"struct":["ExecutedData","QuorumTransactionResponse","SubmitTransactionOptions","SubmitTxRequest","TransactionDriver","TransactionDriverMetrics"]};
